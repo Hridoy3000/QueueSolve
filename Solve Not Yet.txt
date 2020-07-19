@@ -1,0 +1,7 @@
+Uva 10500
+Uva 11500
+LightOJ 1081
+LightOJ 1091
+AtCoder ABC044 C
+Codeforces ECR66 2A
+Codeforces ECR66 2B
